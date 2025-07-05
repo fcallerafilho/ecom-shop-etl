@@ -1,15 +1,9 @@
-# 🚀 Multi-Source ETL Pipeline with Real-Time Analytics
+# 🚀 ETL Pipeline - Ecommerce shop data
+> Data pipeline built with Apache Airflow, BigQuery, and Streamlit**
 
-> **Production-ready data pipeline built with Apache Airflow, BigQuery, and Streamlit**
-
-## 🎯 Quick Demo
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/yourusername/your-repo-name)
-
-### Or local setup
-
+## Local demo 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/fcallerafilho/ecom-shop-etl.git
 cd etl-project
 docker-compose up
 ```
