@@ -1,6 +1,5 @@
 # 🚀 ETL Pipeline - Ecommerce shop data
-
-> **Production-ready data pipeline built with Apache Airflow, BigQuery, and Streamlit**
+> Data pipeline built with Apache Airflow, BigQuery, and Streamlit**
 
 ## Local demo 
 ```bash
