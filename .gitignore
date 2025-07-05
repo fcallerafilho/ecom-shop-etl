@@ -1,0 +1,21 @@
+echo "# Airflow logs
+logs/
+*.log
+
+# Environment files
+.env
+
+# GCP credentials (important!)
+config/gcp-key.json
+
+# Docker volumes
+postgres-db-volume/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db" > .gitignore
